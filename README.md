@@ -1,11 +1,12 @@
 <p align="center">
-  <img width="100%" alt="Hello, I'm 茶竹" src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=220&section=header&text=Tea%20Bamboo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20builder%20growing%20into%20a%20full-stack%20engineer&descAlignY=58&descSize=18" />
+  <img width="100%" alt="Hello, I'm 茶竹" src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=220&section=header&text=Tea%20Bamboo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20builder%20%7C%20Growing%20into%20a%20full-stack%20engineer&descAlignY=58&descSize=18" />
 </p>
 
 <h1 align="center">Hi there, I'm 茶竹 👋</h1>
 
 <p align="center">
-  AI builder, growing into a full-stack engineer.
+  AI builder, growing into a full-stack engineer.<br/>
+  Building useful tools, agent workflows, and product-shaped experiments.
 </p>
 
 <p align="center">
@@ -21,10 +22,10 @@
 
 ### About me
 
-- 🤖 Building AI-native tools and agent workflows
-- 🌱 Currently growing from AI builder toward full-stack engineering
-- 🛠 Interested in automation, product building, and practical developer tools
-- 💬 Always exploring how ideas can become real products faster
+- 🤖 Building AI-native tools, automations, and agent workflows
+- 🌱 Growing from AI builder toward full-stack engineering
+- 🧩 Interested in product thinking, developer tools, and practical systems
+- 🚀 Prefer turning ideas into usable products quickly and cleanly
 
 ---
 
@@ -69,7 +70,7 @@
 
 ---
 
-### Let's connect
+### Connect
 
 <p>
   <a href="https://github.com/TeaBambooNGU">GitHub</a>
