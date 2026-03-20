@@ -58,6 +58,12 @@
 <a href="https://github.com/TeaBambooNGU/CryptoSignalAgent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=CryptoSignalAgent&theme=buefy" />
 </a>
+<a href="https://github.com/TeaBambooNGU/SecondWorld">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=SecondWorld&theme=buefy" />
+</a>
+<a href="https://github.com/TeaBambooNGU/mcp-server-bootstrap-skill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=mcp-server-bootstrap-skill&theme=buefy" />
+</a>
 
 ---
 
