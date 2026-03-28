@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-Builder-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20Workflows-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Engineer%20in%20Growth-22C55E?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://github.com/TeaBambooNGU">
     <img src="https://img.shields.io/github/followers/TeaBambooNGU?label=Follow&style=for-the-badge" />
   </a>
@@ -31,22 +37,9 @@
 
 ### Tech stack
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-333?style=flat-square&logo=python" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-333?style=flat-square&logo=git" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,git,github,docker" />
 </p>
-
----
-
-### Quick links
-
-- [All repositories](https://github.com/TeaBambooNGU?tab=repositories)
-- [Pinned projects](https://github.com/TeaBambooNGU?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 ---
 
@@ -78,8 +71,7 @@ Control center project in the OpenClaw ecosystem.
 
 ---
 
-### Connect
+### Find more
 
-<p>
-  <a href="https://github.com/TeaBambooNGU">GitHub</a>
-</p>
+- [All repositories](https://github.com/TeaBambooNGU?tab=repositories)
+- [GitHub profile](https://github.com/TeaBambooNGU)
