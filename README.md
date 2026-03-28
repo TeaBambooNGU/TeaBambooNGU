@@ -22,6 +22,7 @@
   <a href="https://github.com/TeaBambooNGU?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge" />
   </a>
+  <img src="https://img.shields.io/badge/Total%20Stars-34-f59e0b?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -40,25 +41,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,git,github,docker" />
 </p>
-
----
-
-### Featured projects
-
-#### [openclaw-multi-agent-example](https://github.com/TeaBambooNGU/openclaw-multi-agent-example)
-Example project for building and orchestrating multi-agent workflows with OpenClaw.
-
-#### [CryptoSignalAgent](https://github.com/TeaBambooNGU/CryptoSignalAgent)
-AI-powered crypto signal agent for market monitoring, analysis, and workflow automation.
-
-#### [mcp-server-bootstrap-skill](https://github.com/TeaBambooNGU/mcp-server-bootstrap-skill)
-Bootstrap skill for quickly scaffolding and integrating MCP servers into agent workflows.
-
-#### [SecondWorld](https://github.com/TeaBambooNGU/SecondWorld)
-Experimental project for exploring interactive product ideas and virtual world concepts.
-
-#### [openclaw-control-center](https://github.com/TeaBambooNGU/openclaw-control-center)
-Control center project in the OpenClaw ecosystem.
 
 ---
 
