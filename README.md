@@ -43,27 +43,29 @@
 
 ---
 
-### GitHub stats
+### Quick links
 
-| <a href="https://github.com/TeaBambooNGU"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeaBambooNGU&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tea Bamboo's github stats" /></a> | <a href="https://github.com/TeaBambooNGU"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBambooNGU&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- [All repositories](https://github.com/TeaBambooNGU?tab=repositories)
+- [Pinned projects](https://github.com/TeaBambooNGU?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 ---
 
 ### Featured projects
 
-<a href="https://github.com/TeaBambooNGU/openclaw-multi-agent-example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=openclaw-multi-agent-example&theme=buefy&v=1774692731" />
-</a>
-<a href="https://github.com/TeaBambooNGU/CryptoSignalAgent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=CryptoSignalAgent&theme=buefy&v=1774692731" />
-</a>
-<a href="https://github.com/TeaBambooNGU/mcp-server-bootstrap-skill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=mcp-server-bootstrap-skill&theme=buefy&v=1774692731" />
-</a>
-<a href="https://github.com/TeaBambooNGU/SecondWorld">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=SecondWorld&theme=buefy&v=1774692731" />
-</a>
+#### [openclaw-multi-agent-example](https://github.com/TeaBambooNGU/openclaw-multi-agent-example)
+Example project for building and orchestrating multi-agent workflows with OpenClaw.
+
+#### [CryptoSignalAgent](https://github.com/TeaBambooNGU/CryptoSignalAgent)
+AI-powered crypto signal agent for market monitoring, analysis, and workflow automation.
+
+#### [mcp-server-bootstrap-skill](https://github.com/TeaBambooNGU/mcp-server-bootstrap-skill)
+Bootstrap skill for quickly scaffolding and integrating MCP servers into agent workflows.
+
+#### [SecondWorld](https://github.com/TeaBambooNGU/SecondWorld)
+Experimental project for exploring interactive product ideas and virtual world concepts.
+
+#### [openclaw-control-center](https://github.com/TeaBambooNGU/openclaw-control-center)
+Control center project in the OpenClaw ecosystem.
 
 ---
 
