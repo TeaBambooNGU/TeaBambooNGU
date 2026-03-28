@@ -53,16 +53,16 @@
 ### Featured projects
 
 <a href="https://github.com/TeaBambooNGU/openclaw-multi-agent-example">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=openclaw-multi-agent-example&theme=buefy&v=202603221507" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=openclaw-multi-agent-example&theme=buefy&v=1774692731" />
 </a>
 <a href="https://github.com/TeaBambooNGU/CryptoSignalAgent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=CryptoSignalAgent&theme=buefy&v=202603221507" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=CryptoSignalAgent&theme=buefy&v=1774692731" />
 </a>
 <a href="https://github.com/TeaBambooNGU/mcp-server-bootstrap-skill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=mcp-server-bootstrap-skill&theme=buefy&v=202603221507" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=mcp-server-bootstrap-skill&theme=buefy&v=1774692731" />
 </a>
 <a href="https://github.com/TeaBambooNGU/SecondWorld">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=SecondWorld&theme=buefy&v=202603221507" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaBambooNGU&repo=SecondWorld&theme=buefy&v=1774692731" />
 </a>
 
 ---
