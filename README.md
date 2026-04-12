@@ -22,6 +22,7 @@
   <a href="https://github.com/TeaBambooNGU?tab=repositories">
     <img src="https://img.shields.io/badge/View-Projects-0EA5E9?style=for-the-badge&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/Total%20Stars-40-F59E0B?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
