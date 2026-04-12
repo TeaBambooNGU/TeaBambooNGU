@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TeaBambooNGU&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBambooNGU&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://img.shields.io/badge/Recent%20Work-OpenClaw%20Plugins%20%26%20Agent%20Systems-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Building-Practical%20AI%20Workflows-7C3AED?style=flat-square" />
 </p>
 
 ---
@@ -53,9 +53,11 @@
 
 ## Selected projects
 
-- Build product-shaped experiments instead of toy demos
-- Design agent workflows that are actually operable
-- Explore AI-assisted development with real delivery constraints
+- [openclaw-multi-agent-example](https://github.com/TeaBambooNGU/openclaw-multi-agent-example) — Example project for building and orchestrating multi-agent workflows with OpenClaw.
+- [CryptoSignalAgent](https://github.com/TeaBambooNGU/CryptoSignalAgent) — AI-powered crypto signal agent for market monitoring, analysis, and workflow automation.
+- [xiaomi-tts-openclaw-plugin](https://github.com/TeaBambooNGU/xiaomi-tts-openclaw-plugin) — Xiaomi TTS plugin for OpenClaw voice workflows.
+- [mcp-server-bootstrap-skill](https://github.com/TeaBambooNGU/mcp-server-bootstrap-skill) — Bootstrap skill for quickly scaffolding MCP servers into agent workflows.
+- [cryptorNewsMCP](https://github.com/TeaBambooNGU/cryptorNewsMCP) — MCP server for fetching and organizing crypto news into AI-friendly workflows.
 
 > I care about tools that feel calm, useful, and worth keeping.
 
