@@ -34,6 +34,13 @@
 - 🧩 Care about developer experience, system design, and product clarity
 - ✨ I like tools that feel calm, reliable, and genuinely useful
 
+## GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TeaBambooNGU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=20260421" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBambooNGU&layout=compact&theme=tokyonight&hide_border=true&v=20260421" />
+</p>
+
 ## What I'm focused on
 
 - Multi-agent systems and orchestration
@@ -65,13 +72,6 @@
 
 - [cryptorNewsMCP](https://github.com/TeaBambooNGU/cryptorNewsMCP)  
   MCP server for fetching and organizing crypto news into AI-friendly workflows.
-
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TeaBambooNGU&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=20260421" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeaBambooNGU&layout=compact&theme=tokyonight&hide_border=true&v=20260421" />
-</p>
 
 ## Find me here
 
